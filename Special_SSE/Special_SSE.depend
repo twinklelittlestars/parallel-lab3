@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1683790552 source:e:\codeblock\lhw\special_sse\main.cpp
+	<iostream>
+	<pthread.h>
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+	<fstream>
+	<sstream>
+	<bitset>
+	<immintrin.h>
+
