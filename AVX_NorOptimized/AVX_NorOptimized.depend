@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1683196952 source:e:\codeblock\lhw\avx_noroptimized\main.cpp
+	<iostream>
+	<pthread.h>
+	<stdlib.h>
+	<stdio.h>
+	<sys/time.h>
+	<immintrin.h>
+	<windows.h>
+	<stdlib.h>
+
