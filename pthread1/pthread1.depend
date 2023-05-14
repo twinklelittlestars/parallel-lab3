@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1683119010 source:e:\codeblock\lhw\pthread1\main.cpp
+	<iostream>
+	<pthread.h>
+	<stdlib.h>
+	<stdio.h>
+	<sys/time.h>
+
